@@ -1,4 +1,7 @@
 # MyNotes4MongoDB
+This is a repository where I put my code for each challenge in MongoDB from freecodecamp.com. If you are looking for solution, you could refer to those scripts with names which begin with '1-' (i.e. Chp1)
+
+# Installation
 First of all, installing MongoDB on one's EC2 instance for Cloud9 can be tricky, check out these instructions from picklu: 
 
 1. Run the command sudo nano /etc/yum.repos.d/mongodb-org-3.6.repo on the shell
