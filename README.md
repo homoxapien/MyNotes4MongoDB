@@ -30,3 +30,11 @@ gpgkey=https://www.mongodb.org/static/pgp/server-3.6.asc
 
 (ref: https://community.c9.io/t/how-to-setup-mongodb-in-aws-c9/22553/5)
 
+# Solving challenges 
+Basically, just using process.argv list in the .js script.
+
+Then,
+
+$ learnyoumongo run XXX.js
+
+$ learnyoumongo verify XXX.js
