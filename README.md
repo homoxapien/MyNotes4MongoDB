@@ -38,3 +38,6 @@ Then,
 $ learnyoumongo run XXX.js
 
 $ learnyoumongo verify XXX.js
+
+# 3. Contents
+Chp1. Learnyoumongo solution
